@@ -1,6 +1,12 @@
 [![License](https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 ![Platforms Windows | macOS | Linux](https://img.shields.io/badge/Platforms-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg?style=flat) [![Release](https://img.shields.io/github/v/tag/ONLYOFFICE/DesktopEditors?sort=semver&style=flat&label=Release&color=blue)](https://github.com/ONLYOFFICE/DesktopEditors/tags)
 
+> **修改声明 / Modification Notice**
+>
+> 本仓库是基于 [ONLYOFFICE Desktop Editors](https://github.com/ONLYOFFICE/DesktopEditors)（GNU Affero General Public License v3.0，© Ascensio System SIA）**修改而来**的版本，并非 Ascensio System SIA 的官方发行版。
+> 修改方：**网信科技（[wx12345.com](https://www.wx12345.com)）**；修改起始日期：**2026-09-24**。
+> 原始项目：<https://github.com/ONLYOFFICE/DesktopEditors>。完整许可证（含附加条款）见仓库根目录 `LICENSE`。
+
 ## Welcome to the 网信办公 repo!
 
 [网信办公](https://www.wx12345.com/desktop.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDesktop) is a free office suite that combines text, spreadsheet, presentation, and PDF editors & Diagram Viewer. The application allows creating, viewing and editing documents stored on your Windows/Linux PC or Mac without an Internet connection. It is fully compatible with Office Open XML formats: .docx, .xlsx, .pptx.
@@ -36,7 +42,7 @@ ONLYOFFICE is constantly improving localization of the editors to make the suite
 
 ## Plugins 🧩
 
-网信办公 offer support for plugins allowing developers to add specific features to the editors that are not directly related to the OOXML format. For more information, see [our API](https://api.wx12345.com/docs/plugin-and-macros/get-started/overview/) or visit the [GitHub plugins repo](https://github.com/ONLYOFFICE/onlyoffice.github.io).
+网信办公 offer support for plugins allowing developers to add specific features to the editors that are not directly related to the OOXML format. For more information, see [our API](https://api.onlyoffice.com/docs/plugin-and-macros/get-started/overview/) or visit the [GitHub plugins repo](https://github.com/ONLYOFFICE/onlyoffice.github.io).
 
 Would like to explore the existing plugins in details? You are welcome to visit our [Marketplace](https://www.wx12345.com/app-directory?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDesktop).
 
@@ -73,12 +79,12 @@ You can find the detailed instructions for building 网信办公 in [build_tool
 
 ## 💡 Need help? User feedback and support
 
-If you face any issues or have questions about 网信办公, please visit our official forum: [forum.wx12345.com][1].
+If you face any issues or have questions about 网信办公, please visit our official forum: [forum.onlyoffice.com][1].
 
-You are also welcome to ask and answer ONLYOFFICE development questions on [Stack Overflow][3], as well as share your thoughts and suggestions on [feedback.wx12345.com](https://feedback.wx12345.com/forums/966080-your-voice-matters).
+You are also welcome to ask and answer ONLYOFFICE development questions on [Stack Overflow][3], as well as share your thoughts and suggestions on [feedback.onlyoffice.com](https://feedback.onlyoffice.com/forums/966080-your-voice-matters).
 
 Join [our Discord community](https://discord.gg/Hcgtf5n4uF) for connecting with fellow developers.
 
-  [1]: https://forum.wx12345.com
+  [1]: https://forum.onlyoffice.com
   [2]: https://github.com/ONLYOFFICE/DocumentServer
   [3]: https://stackoverflow.com/questions/tagged/onlyoffice
